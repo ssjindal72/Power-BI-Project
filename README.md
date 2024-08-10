@@ -40,4 +40,4 @@ To view and interact with the analysis, you'll need Power BI Desktop. Once insta
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/ssjindal72/bank-customer-churn-analysis.git
+   git clone https://github.com/ssjindal72/Power-BI-Project.git
